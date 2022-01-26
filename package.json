@@ -1,7 +1,7 @@
 {
   "name": "react-task-tracker",
   "version": "0.1.0",
-  "homepage": "https://rawanebeidat.github.io/Traker-Task",
+  "homepage": "https://rawanebeidat.github.io/react-task-tracker/",
   "private": true,
   "dependencies": {
     "-": "^0.0.1",
